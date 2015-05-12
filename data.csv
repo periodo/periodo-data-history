@@ -870,3 +870,55 @@ P/U req. SB 8/31,"Mazar, 1992",eng,latn,http://zotero.org/groups/periodo/items/9
 ,Pleiades,eng,latn,https://www.zotero.org/groups/periodo/items/VKAZ7WEG,,TRUE,http://pleiades.stoa.org/vocabularies/time-periods/ubaid-early-dynastic-ii-mesopotamia,Ubaid-Early Dynastic II Mesopotamia (5500-2600 BC),Ubaid-Early Dynastic II,,,-5500,-2600,ISO8601,"Iran,Iraq,Syria,Turkey",,from associated place coordinates,,,"Late Chalcolithic-ED II Mesopotamia, Ubaid-Uruk-Jemdet Nasr-ED Mesopotamia"
 ,Pleiades,eng,latn,https://www.zotero.org/groups/periodo/items/VKAZ7WEG,,TRUE,http://pleiades.stoa.org/vocabularies/time-periods/ummayad,Ummayad Period (661-750CE),Ummayad,,,661,750,ISO8601,"Lebanon,Spain,Syria",,from associated place coordinates,,,The period of the Umayyad Caliphate as defined by http://en.wikipedia.org/wiki/Umayyad_Caliphate
 ,Pleiades,eng,latn,https://www.zotero.org/groups/periodo/items/VKAZ7WEG,,TRUE,http://pleiades.stoa.org/vocabularies/time-periods/urartian-eastern-anatolia,Urartian Eastern Anatolia (900-600 BC),Urartian,,,-900,-600,ISO8601,"Turkey,Armenia",,from associated place coordinates,,,eastern Anatolia
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Palaeolithic,Palaeolithic,,,-12500,-9000,ISO8601,Denmark,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Palaeolithic,Palaeolithic,,,-500000,-10000,ISO8601,United Kingdom,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Palaeolithic,Palaeolithic,,,-14000,-8200,ISO8601,Poland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Palaeolithic,Palaeolithic,,,-1500000,-10000,ISO8601,Romania,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Neolithic,Neolithic,,,-3900,-1700,ISO8601,Denmark,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Bronze Age,Bronze Age,,,-1700,-500,ISO8601,Denmark,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Iron Age,Iron Age,,,-500,1050,ISO8601,Denmark,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Medieval,Medieval,,,1050,1536,ISO8601,Denmark,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Post Medieval,Post Medieval,,,1536,1660,ISO8601,Denmark,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Modern,Modern,,,1660,present,ISO8601,Denmark,,,,,"Visual timeline fades toward the present, indicating no end date."
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Mesolithic,Mesolithic,,,-9000,-3900,ISO8601,Denmark,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Mesolithic,Mesolithic,,,before -6000,-4000,ISO8601,Norway,,,,,"Visual timeline fades out before the -6000 tick on the timeline, indicating no clear start date."
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Mesolithic,Mesolithic,,,-10000,-7000,ISO8601,Romania,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Neolithic,Neolithic,,,-4000,-2200,ISO8601,United Kingdom,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Bronze Age,Bronze Age,,,-2500,-700,ISO8601,United Kingdom,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Iron Age,Iron Age,,,-800,43,ISO8601,United Kingdom,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Mesolithic,Mesolithic,,,-10000,-4000,ISO8601,United Kingdom,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Roman,Roman,,,43,410,ISO8601,United Kingdom,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Early Medieval,Early Medieval,,,410,1066,ISO8601,United Kingdom,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Medieval,Medieval,,,1066,1540,ISO8601,United Kingdom,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Post Medieval,Post Medieval,,,1540,1901,ISO8601,United Kingdom,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Modern,Modern,,,1901,present,ISO8601,United Kingdom,,,,,"Visual timeline fades toward the present, indicating no end date."
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Early Medieval,Early Medieval,,,before 1000,1100,ISO8601,Iceland,,,,,"Visual timeline fades out before the 1000 tick on the timeline, indicating no clear start date."
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Medieval,Medieval,,,1100,1600,ISO8601,Iceland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Post Medieval,Post Medieval,,,1600,1900,ISO8601,Iceland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Modern,Modern,,,1900,present,ISO8601,Iceland,,,,,"Visual timeline fades toward the present, indicating no end date."
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Neolithic,Neolithic,,,-4000,-1800,ISO8601,Norway,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Bronze Age,Bronze Age,,,-1800,-500,ISO8601,Norway,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Iron Age,Iron Age,,,-500,1050,ISO8601,Norway,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Medieval,Medieval,,,1050,1537,ISO8601,Norway,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Post Medieval,Post Medieval,,,1537,present,ISO8601,Norway,,,,,"Visual timeline fades toward the present, indicating no end date."
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Mesolithic,Mesolithic,,,-8200,-4500,ISO8601,Poland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Neolithic,Neolithic,,,-4500,-1800,ISO8601,Poland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Bronze Age,Bronze Age,,,-1800,-400,ISO8601,Poland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Iron Age,Iron Age,,,-400,100,ISO8601,Poland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Roman,Roman,,,100,375,ISO8601,Poland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Early Medieval,Early Medieval,,,375,600,ISO8601,Poland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Medieval,Medieval,,,600,1250,ISO8601,Poland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Post Medieval,Post Medieval,,,1250,1500,ISO8601,Poland,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Modern,Modern,,,1500,present,ISO8601,Poland,,,,,"Visual timeline fades toward the present, indicating no end date."
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Neolithic,Neolithic,,,-7000,-3200,ISO8601,Romania,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Bronze Age,Bronze Age,,,-3200,-1200,ISO8601,Romania,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Iron Age,Iron Age,,,-1200,106,ISO8601,Romania,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Greek,Greek,,,-650,-30,ISO8601,Romania,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Roman,Roman,,,106,602,ISO8601,Romania,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Early Medieval,Early Medieval,,,353,900,ISO8601,Romania,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Medieval,Medieval,,,900,1821,ISO8601,Romania,,,,,
+,ARENA1/ADS,eng,latn,https://www.zotero.org/groups/periodo/items/3UNM6BRJ,,FALSE,http://ads.ahds.ac.uk/arena/search/period.cfm,Modern,Modern,,,1821,1918,ISO8601,Romania,,,,,
+,ADS,eng,latn,,,FALSE,,Early Migrations Period,Early Migrations,,,3rd cent.,6th cent.,Gregorian_unmarked,Romania,,,,,
+,ADS,eng,latn,,,FALSE,,Early Roman,Early Roman,,,1st cent.,3rd cent.,Gregorian_unmarked,Romania,,,,,
+,ADS,eng,latn,,,FALSE,,Late Roman,Late Roman,,,4th cent.,7th cent.,Gregorian_unmarked,Romania,,,,,
+,ADS,eng,latn,,,FALSE,,Late Migrations,Late Migrations,,,7th cent.,11th cent.,Gregorian_unmarked,Romania,,,,,

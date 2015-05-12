@@ -1,0 +1,1 @@
+Historical record of the first compilation of PeriodO data, exported from the [original Google spreadsheet](https://docs.google.com/spreadsheets/d/1bRIyoSq_VagBU4y6cxQAFlwZTPXWMbIl5HCZ4IqXyC4/edit?usp=sharing).
